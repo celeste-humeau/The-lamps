@@ -1,0 +1,16 @@
+
+
+.btn-yellow {
+	background: rgb(253, 198, 21);
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-decoration: none;
+	font-weight: bold;
+	
+
+	
+}
+
+.btn-yellow:hover {
+	color: black;
